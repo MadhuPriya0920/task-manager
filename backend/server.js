@@ -10,7 +10,7 @@ const app = express();
 
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://task-manager-black.vercel.app",
+  "https://task-manager-black-xi.vercel.app",
   /\.vercel\.app$/,
 ];
 
