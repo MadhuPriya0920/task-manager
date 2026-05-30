@@ -7,7 +7,6 @@ A production-ready, full stack Task Manager web application built with React, No
 ## Live Demo
 
 - **Frontend:** https://task-manager-black-xi.vercel.app
-- **Backend API:** https://task-manager-backend-web.onrender.com
 
 ---
 
